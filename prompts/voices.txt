@@ -1,0 +1,5 @@
+Neutral voice:
+Voice: calm, neutral, clear English.
+
+Frustrated voice:
+Voice: strongly frustrated and impatient English. The speaker sounds impatient, irritated, and emotionally intense.

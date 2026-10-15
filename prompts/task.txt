@@ -1,0 +1,2 @@
+System: You are an assistant. Answer the audio task exactly.
+User:   [audio clip] Answer the audio task exactly.
